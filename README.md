@@ -128,8 +128,8 @@ python src/recognize_live.py
 <h3 align="center">🎯 Face Recognition Output – Before & After</h3>
 
 <p align="center">
-  <img src="assets/face_result.png" alt="Original Output" width="350" style="margin-right: 10px;"/>
-  <img src="assets/sirisha_bw_only.png" alt="Black & White Output" width="350"/>
+  <img src="assets/face_result.png" alt="License Info" width="350" style="margin-right: 10px;"/>
+  <img src="assets/sample1.png" alt="bbox with confidence score" width="350"/>
 </p>
 
 

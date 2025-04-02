@@ -3,6 +3,7 @@ import os
 import cv2
 import numpy as np
 import json
+
 dataset_path = 'dataset'
 model_save_path = 'trainer/lbph_model.yml'
 label_map_path = 'labels.json'

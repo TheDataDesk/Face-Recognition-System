@@ -1,5 +1,6 @@
 import cv2
 import os
+
 def collect_faces(person_name, sample_count=500):
     cam = cv2.VideoCapture(1)  #Use the correct working camera index
     if not cam.isOpened():

@@ -2,6 +2,7 @@ import cv2
 import json
 import tkinter as tk
 from tkinter import messagebox
+
 MODEL_PATH = 'trainer/lbph_model.yml'
 LABEL_MAP_PATH = 'labels.json'
 LICENSE_DATA_PATH = 'licenses.json'

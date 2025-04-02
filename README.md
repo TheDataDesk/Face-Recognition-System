@@ -129,7 +129,7 @@ python src/recognize_live.py
 
 <p align="center">
   <img src="assets/face_result.png" alt="License Info" width="350" style="margin-right: 10px;"/>
-  <img src="assets/sample1.png" alt="bbox with confidence score" width="330"/>
+  <img src="assets/sample1.png" alt="bbox with confidence score" width="340"/>
 </p>
 
 

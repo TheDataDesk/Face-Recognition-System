@@ -123,23 +123,6 @@ python src/recognize_live.py
 
 ---
 
-## Output Example (Screenshot)
-
-<h3 align="center">🎯 Face Recognition Output – Face Recognition with License Info </h3>
-
-<p align="center">
-  <img src="assets/face_result.png" alt="License Info" width="350" style="margin-right: 10px;"/>
-  <img src="assets/sample1.png" alt="bbox with confidence score" width="340"/>
-</p>
-
-
-> Output shows:
-> - Name + confidence
-> - Bounding box around face
-> - License info (either as pop-up or frame overlay)
-
----
-
 ## ⚙️ File Outputs (After Running)
 
 | File                | When It's Generated       | Purpose                      |
